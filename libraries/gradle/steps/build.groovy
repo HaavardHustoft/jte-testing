@@ -1,5 +1,5 @@
 void call(){
-    stage("GRadle: Build"){
+    stage("Gradle: Build"){
         println "Build from the gradle library"
     }
 }
